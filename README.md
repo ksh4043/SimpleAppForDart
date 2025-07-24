@@ -215,7 +215,7 @@ class InsertDiaryState extends State<InsertDiary> {
 메인 홈이 되는 위젯  
 한 줄 일기를 작성하고 내용을 리스트에 담아 관리  
   
-![image](/images/HomeExampleImage1.png) 
+![image](/images/HomeExampleImage1.png)
 
 # diary_page.dart
 ```dart
@@ -256,7 +256,7 @@ class DiaryList extends StatelessWidget{
 
 내가 쓴 일기 목록을 확인할 수 있는 위젯  
   
-![image](/images/DiaryListImage.png)
+![image](images/DiaryListImage.png)
   
 # drawer_widget.dart
   
